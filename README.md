@@ -25,11 +25,15 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 
 
 # NETWORK DIAGRAM
+<img width="602" height="349" alt="image" src="https://github.com/user-attachments/assets/88f69a8f-43e9-4a9f-b29a-5afe73413f45" />
+
 
 
 
 
 # OUTPUT
+<img width="602" height="369" alt="image" src="https://github.com/user-attachments/assets/15684a97-39f8-4ccc-b3d9-b89bfb73a272" />
+
 
 
 # RESULT
